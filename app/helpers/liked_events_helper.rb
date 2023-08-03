@@ -1,0 +1,2 @@
+module LikedEventsHelper
+end

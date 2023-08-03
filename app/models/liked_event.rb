@@ -1,0 +1,2 @@
+class LikedEvent < ApplicationRecord
+end
